@@ -1,0 +1,1 @@
+Goal is to create a grid of elements that change to a persistent color when hovered over. It should have a button that prompts the user to enter a new grid size (max 100) that also resets the canvas.
